@@ -1,0 +1,14 @@
+{
+  "idf.adapterTargetName": "esp32s3",
+  "idf.pythonBinaryPath": "/usr/bin/python3",
+  "cmake.toolsPath": "/usr/bin",
+  "files.associations": {
+    "sdkconfig": "properties"
+  },
+  "idf.pythonInstallPath": "/usr/bin/python",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyACM0"
+}
